@@ -41,7 +41,7 @@ jobs:
             const page = await browser.newPage();
 
             await page.goto(
-              "https://YOUR-APP-NAME.streamlit.app",
+              "https://appkeepaliveworkflow-hjhjdhjhjgyt.streamlit.app",
               {
                 waitUntil: "networkidle",
                 timeout: 60000
