@@ -1,0 +1,7 @@
+streamlit
+polars-lts-cpu
+pandas
+plotly
+openpyxl
+pyarrow
+watchdog
